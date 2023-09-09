@@ -28,7 +28,6 @@ h3 {font-size: 50px;}
 p {
     color: #0000009c;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-align: justify;
 }
 
 .container {
@@ -176,6 +175,7 @@ nav .close-icon {
 
 .faca-mais .faca-mais-text p {
     margin: 5px 0 15px 0;
+    text-align: justify;
 }
 
 .faca-mais .faca-mais-img {
