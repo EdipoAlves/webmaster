@@ -319,6 +319,8 @@ nav .close-icon {
 .sobre .sobre-text p {
     margin: 18px 0;
     color: #000000a6;
+    text-align: justify;
+    text-indent: 30px;
 }
 
 .sobre .sobre-img {
@@ -349,6 +351,8 @@ nav .close-icon {
     justify-content: center;
     margin-top: 20px;
     flex-wrap: wrap;
+    text-align: justify;
+    text-indent: 30px; 
 }
 
 .servicos .row-card-item {
@@ -358,7 +362,7 @@ nav .close-icon {
     border-radius: 14px;
     margin: 12px;
     transition: 0.3s;
-    box-shadow: rgba(0, 0, 0, 0.842) 3px 3px 6px 2px;
+    box-shadow: rgba(0, 0, 0, 0.842) 3px 3px 6px 2px; 
 }
 
 .servicos .row-card-item:hover {
