@@ -234,6 +234,8 @@ nav .close-icon {
     font-size: 15px;
     padding: 0 15px;
     transition: all 0.5s ease-in-out;
+    text-align: justify;
+    text-indent: 30px;
 }
 
 .depoimentos .card-item .estrelas {
