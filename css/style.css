@@ -12,6 +12,11 @@
 
 body {
     background-color: #f1f6fc31;
+    
+}
+
+a.externo::after {
+    content: "\1f517";
 }
 
 section,
@@ -21,6 +26,7 @@ footer {
 
 h1 {
     font-size: 50px;
+    text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.644);
 }
 
 h3 {font-size: 50px;}
@@ -288,7 +294,7 @@ nav .close-icon {
    background-color: white;
    padding: 10px;
    margin: 5px;
-   border-radius: 50%;
+   border-radius: 2px;
 }
 
 .footer p {
